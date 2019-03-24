@@ -8,6 +8,5 @@ gif
 
 # Useful Links
 
-Matter.js
-  [Website](http://brm.io/matter-js/)
-  [Documentation](http://brm.io/matter-js/docs/)
+  [Website](http://brm.io/matter-js/)  
+  [Documentation](http://brm.io/matter-js/docs/)  
