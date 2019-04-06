@@ -1,6 +1,6 @@
 # Matter.js
 
-A Matter.js tutorial for KYTCAT Epitech Montpellier
+A Matter.js tutorial
 
 Youtube video: https://www.youtube.com/watch?v=DwoiS2bF37w&feature=youtu.be  
 
